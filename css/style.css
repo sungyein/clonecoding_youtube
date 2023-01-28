@@ -21,6 +21,8 @@ body {
   align-items: center;
   height: 70px;
   padding: 15px;
+  background-color: antiquewhite;
+  /* 사기용 사이트가 아니라 개인 포트폴리오용 사이트임을 표시하기 위해 기존사이트에 없는 컬러를 삽입하였습니다. */
 }
 
 .header__left {
